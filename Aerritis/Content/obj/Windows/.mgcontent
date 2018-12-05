@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Aerritis/Aerritis/Aerritis/Content/Levels/wood_tileset.png</File>
+    <File>D:/Aerritis/Aerritis/Aerritis/Content/Fonts/mapFont.spritefont</File>
+    <File>D:/Aerritis/Aerritis/Aerritis/Content/Sprites/Characters/skeleton.png</File>
+    <File>D:/Aerritis/Aerritis/Aerritis/Content/Sprites/Items/dagger1.png</File>
+    <File>D:/Aerritis/Aerritis/Aerritis/Content/Levels/Animations/animations.png</File>
+    <File>D:/Aerritis/Aerritis/Aerritis/Content/Levels/Animations/decorations.png</File>
+    <File>D:/Aerritis/Aerritis/Aerritis/Content/UI/gui_expanded.png</File>
+    <File>D:/Aerritis/Aerritis/Aerritis/Content/UI/GUI.png</File>
+    <File>D:/Aerritis/Aerritis/Aerritis/Content/UI/button_gui.png</File>
+  </SourceFiles>
+</SourceFileCollection>

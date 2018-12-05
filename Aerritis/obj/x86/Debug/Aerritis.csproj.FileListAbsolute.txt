@@ -1,0 +1,162 @@
+C:\Users\mhense\Documents\Visual Studio 2015\Projects\Aerritis\Aerritis\bin\Windows\x86\Debug\Aerritis.exe
+C:\Users\mhense\Documents\Visual Studio 2015\Projects\Aerritis\Aerritis\bin\Windows\x86\Debug\Aerritis.pdb
+C:\Users\mhense\Documents\Visual Studio 2015\Projects\Aerritis\Aerritis\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\mhense\Documents\Visual Studio 2015\Projects\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\mhense\Documents\Visual Studio 2015\Projects\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\mhense\Documents\Visual Studio 2015\Projects\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\mhense\Documents\Visual Studio 2015\Projects\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\mhense\Documents\Visual Studio 2015\Projects\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\mhense\Documents\Visual Studio 2015\Projects\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\mhense\Documents\Visual Studio 2015\Projects\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\mhense\Documents\Visual Studio 2015\Projects\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\mhense\Documents\Visual Studio 2015\Projects\Aerritis\Aerritis\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\mhense\Documents\Visual Studio 2015\Projects\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\mhense\Documents\Visual Studio 2015\Projects\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\mhense\Documents\Visual Studio 2015\Projects\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\mhense\Documents\Visual Studio 2015\Projects\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\mhense\Documents\Visual Studio 2015\Projects\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\mhense\Documents\Visual Studio 2015\Projects\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\mhense\Documents\Visual Studio 2015\Projects\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\mhense\Documents\Visual Studio 2015\Projects\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\mhense\Documents\Visual Studio 2015\Projects\Aerritis\Aerritis\obj\x86\Debug\Aerritis.csprojResolveAssemblyReference.cache
+C:\Users\mhense\Documents\Visual Studio 2015\Projects\Aerritis\Aerritis\obj\x86\Debug\Aerritis.exe
+C:\Users\mhense\Documents\Visual Studio 2015\Projects\Aerritis\Aerritis\obj\x86\Debug\Aerritis.pdb
+F:\Aerritis\Aerritis\bin\Windows\x86\Debug\Aerritis.exe
+F:\Aerritis\Aerritis\bin\Windows\x86\Debug\Aerritis.pdb
+F:\Aerritis\Aerritis\bin\Windows\x86\Debug\MonoGame.Framework.dll
+F:\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+F:\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.dll
+F:\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+F:\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+F:\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+F:\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+F:\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.XInput.dll
+F:\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+F:\Aerritis\Aerritis\bin\Windows\x86\Debug\MonoGame.Framework.xml
+F:\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+F:\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.xml
+F:\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+F:\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+F:\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+F:\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+F:\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.XInput.xml
+F:\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+F:\Aerritis\Aerritis\obj\x86\Debug\Aerritis.csprojResolveAssemblyReference.cache
+F:\Aerritis\Aerritis\obj\x86\Debug\Aerritis.csproj.CoreCompileInputs.cache
+F:\Aerritis\Aerritis\obj\x86\Debug\Aerritis.exe
+F:\Aerritis\Aerritis\obj\x86\Debug\Aerritis.pdb
+F:\Aerritis\Aerritis\bin\Windows\x86\Debug\Content\Levels\wood_tileset.xnb
+F:\Aerritis\Aerritis\bin\Windows\x86\Debug\Content\Fonts\mapFont.xnb
+F:\Aerritis\Aerritis\bin\Windows\x86\Debug\Content\Sprites\Items\dagger1.xnb
+F:\Aerritis\Aerritis\bin\Windows\x86\Debug\Content\Sprites\Characters\skeleton.xnb
+D:\Aerritis\Aerritis\bin\Windows\x86\Debug\Content\Levels\wood_tileset.xnb
+D:\Aerritis\Aerritis\bin\Windows\x86\Debug\Content\Fonts\mapFont.xnb
+D:\Aerritis\Aerritis\bin\Windows\x86\Debug\Content\Sprites\Characters\skeleton.xnb
+D:\Aerritis\Aerritis\bin\Windows\x86\Debug\Content\Sprites\Items\dagger1.xnb
+D:\Aerritis\Aerritis\bin\Windows\x86\Debug\Aerritis.exe
+D:\Aerritis\Aerritis\bin\Windows\x86\Debug\Aerritis.pdb
+D:\Aerritis\Aerritis\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.dll
+D:\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\Aerritis\Aerritis\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.xml
+D:\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\Aerritis\Aerritis\obj\x86\Debug\Aerritis.csprojResolveAssemblyReference.cache
+D:\Aerritis\Aerritis\obj\x86\Debug\Aerritis.exe
+D:\Aerritis\Aerritis\obj\x86\Debug\Aerritis.pdb
+D:\Aerritis\Aerritis\bin\Windows\x86\Debug\Content\wood_tileset.xnb
+D:\Aerritis\Aerritis\bin\Windows\x86\Debug\Content\Sprite\square.xnb
+D:\Aerritis\Aerritis\bin\Windows\x86\Debug\Content\Sprite\collidablesquare.xnb
+D:\Aerritis\Aerritis\bin\Windows\x86\Debug\LevelEditor.exe
+D:\Aerritis\Aerritis\bin\Windows\x86\Debug\LevelEditor.pdb
+D:\Aerritis\Aerritis\Aerritis\obj\x86\Debug\Aerritis.exe
+D:\Aerritis\Aerritis\Aerritis\obj\x86\Debug\Aerritis.pdb
+F:\Aerritis\Aerritis\Aerritis\bin\Windows\x86\Debug\Content\Sprite\square.xnb
+F:\Aerritis\Aerritis\Aerritis\bin\Windows\x86\Debug\Content\Sprite\collidablesquare.xnb
+F:\Aerritis\Aerritis\Aerritis\bin\Windows\x86\Debug\Content\wood_tileset.xnb
+F:\Aerritis\Aerritis\Aerritis\bin\Windows\x86\Debug\Content\Sprites\Items\dagger1.xnb
+F:\Aerritis\Aerritis\Aerritis\bin\Windows\x86\Debug\Content\Sprites\Characters\skeleton.xnb
+F:\Aerritis\Aerritis\Aerritis\bin\Windows\x86\Debug\Content\Fonts\mapFont.xnb
+F:\Aerritis\Aerritis\Aerritis\bin\Windows\x86\Debug\Content\Levels\wood_tileset.xnb
+F:\Aerritis\Aerritis\Aerritis\bin\Windows\x86\Debug\Aerritis.exe
+F:\Aerritis\Aerritis\Aerritis\bin\Windows\x86\Debug\Aerritis.pdb
+F:\Aerritis\Aerritis\Aerritis\bin\Windows\x86\Debug\LevelEditor.exe
+F:\Aerritis\Aerritis\Aerritis\bin\Windows\x86\Debug\MonoGame.Framework.dll
+F:\Aerritis\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+F:\Aerritis\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.dll
+F:\Aerritis\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+F:\Aerritis\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+F:\Aerritis\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+F:\Aerritis\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+F:\Aerritis\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.XInput.dll
+F:\Aerritis\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+F:\Aerritis\Aerritis\Aerritis\bin\Windows\x86\Debug\LevelEditor.pdb
+F:\Aerritis\Aerritis\Aerritis\bin\Windows\x86\Debug\MonoGame.Framework.xml
+F:\Aerritis\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+F:\Aerritis\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.xml
+F:\Aerritis\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+F:\Aerritis\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+F:\Aerritis\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+F:\Aerritis\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+F:\Aerritis\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.XInput.xml
+F:\Aerritis\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+F:\Aerritis\Aerritis\Aerritis\obj\x86\Debug\Aerritis.csprojResolveAssemblyReference.cache
+F:\Aerritis\Aerritis\Aerritis\obj\x86\Debug\Aerritis.csproj.CoreCompileInputs.cache
+F:\Aerritis\Aerritis\Aerritis\obj\x86\Debug\Aerritis.exe
+F:\Aerritis\Aerritis\Aerritis\obj\x86\Debug\Aerritis.pdb
+D:\Aerritis\Aerritis\Aerritis\bin\Windows\x86\Debug\Content\wood_tileset.xnb
+D:\Aerritis\Aerritis\Aerritis\bin\Windows\x86\Debug\Content\Sprite\square.xnb
+D:\Aerritis\Aerritis\Aerritis\bin\Windows\x86\Debug\Content\Sprite\collidablesquare.xnb
+D:\Aerritis\Aerritis\Aerritis\bin\Windows\x86\Debug\Content\Animations\decorations.xnb
+D:\Aerritis\Aerritis\Aerritis\bin\Windows\x86\Debug\Content\Animations\animations.xnb
+D:\Aerritis\Aerritis\Aerritis\bin\Windows\x86\Debug\Content\Levels\wood_tileset.xnb
+D:\Aerritis\Aerritis\Aerritis\bin\Windows\x86\Debug\Content\Levels\Animations\animations.xnb
+D:\Aerritis\Aerritis\Aerritis\bin\Windows\x86\Debug\Content\Levels\Animations\decorations.xnb
+D:\Aerritis\Aerritis\Aerritis\bin\Windows\x86\Debug\Content\Fonts\mapFont.xnb
+D:\Aerritis\Aerritis\Aerritis\bin\Windows\x86\Debug\Content\Sprites\Characters\skeleton.xnb
+D:\Aerritis\Aerritis\Aerritis\bin\Windows\x86\Debug\Content\Sprites\Items\dagger1.xnb
+D:\Aerritis\Aerritis\Aerritis\bin\Windows\x86\Debug\Aerritis.exe
+D:\Aerritis\Aerritis\Aerritis\bin\Windows\x86\Debug\Aerritis.pdb
+D:\Aerritis\Aerritis\Aerritis\bin\Windows\x86\Debug\LevelEditor.exe
+D:\Aerritis\Aerritis\Aerritis\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Aerritis\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Aerritis\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.dll
+D:\Aerritis\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Aerritis\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Aerritis\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Aerritis\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Aerritis\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Aerritis\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\Aerritis\Aerritis\Aerritis\bin\Windows\x86\Debug\LevelEditor.pdb
+D:\Aerritis\Aerritis\Aerritis\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Aerritis\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Aerritis\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.xml
+D:\Aerritis\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Aerritis\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Aerritis\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Aerritis\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Aerritis\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Aerritis\Aerritis\Aerritis\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\Aerritis\Aerritis\Aerritis\obj\x86\Debug\Aerritis.csprojResolveAssemblyReference.cache
+D:\Aerritis\Aerritis\Aerritis\bin\Windows\x86\Debug\Content\UI\gui_expanded.xnb
+D:\Aerritis\Aerritis\Aerritis\bin\Windows\x86\Debug\Content\UI\GUI.xnb
+D:\Aerritis\Aerritis\Aerritis\bin\Windows\x86\Debug\Content\UI\button_gui.xnb
+F:\Aerritis\Aerritis\Aerritis\bin\Windows\x86\Debug\Content\Animations\decorations.xnb
+F:\Aerritis\Aerritis\Aerritis\bin\Windows\x86\Debug\Content\Animations\animations.xnb
+F:\Aerritis\Aerritis\Aerritis\bin\Windows\x86\Debug\Content\Levels\Animations\animations.xnb
+F:\Aerritis\Aerritis\Aerritis\bin\Windows\x86\Debug\Content\Levels\Animations\decorations.xnb
+F:\Aerritis\Aerritis\Aerritis\bin\Windows\x86\Debug\Content\UI\gui_expanded.xnb
+F:\Aerritis\Aerritis\Aerritis\bin\Windows\x86\Debug\Content\UI\GUI.xnb
+F:\Aerritis\Aerritis\Aerritis\bin\Windows\x86\Debug\Content\UI\button_gui.xnb
